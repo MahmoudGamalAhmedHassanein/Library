@@ -1,2 +1,4 @@
 # Library
-Second Project from Dr. Mostafa Saad Course
+Second Project from Dr. Mostafa Saad [(Course)](https://bit.ly/36XvLlN)                
+
+Library Management System with new features and ideas form Udemy course.
